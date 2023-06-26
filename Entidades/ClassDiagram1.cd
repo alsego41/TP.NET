@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Materia">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAwA=</HashCode>
+      <FileName>Materia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Personas">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAEAAAAAAQAEACAAhAAAAAAAAAAAAAAAAwAAAAA=</HashCode>
+      <FileName>Personas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.ModuloUsuario">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAwAAAAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>ModuloUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.AlumnoInscripcion">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACACAAAAAgAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>AlumnoInscripccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Usuario">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAABIAAAQAAEAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Curso">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAAAAAAACAAAAACABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Curso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.DocenteCurso">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAACAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>DocenteCurso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Modulo">
+    <Position X="2.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Especialidad">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Especialidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Plan">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Plan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Comision">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Comision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.BussinesEntity">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BussinesEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
